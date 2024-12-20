@@ -52,7 +52,7 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           I am a second year Computer Science major at Virginia Tech and also a
           part of the Honors College. I have a passion for software development
           and am always looking for new opportunities to learn and grow. I am
