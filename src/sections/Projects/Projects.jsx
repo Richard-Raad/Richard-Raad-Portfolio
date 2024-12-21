@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
+import realtor101 from '../../assets/Realtor 101.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -9,7 +9,7 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
+          src={realtor101}
           link="https://github.com/Richard-Raad/HackVT12-Project"
           h3="Realtor 101"
           p="Hackathon project"
