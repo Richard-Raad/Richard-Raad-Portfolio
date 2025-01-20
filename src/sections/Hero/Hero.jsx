@@ -48,7 +48,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           A dedicated Computer Science student in Virginia Tech's Honors
-          College, ranking in the top 5% with a 3.96 GPA. I'm passionate about
+          College, ranking in the top 5% with a 3.97 GPA. I'm passionate about
           software engineering, app development, and machine learning, with a
           special interest in fitness technology—fueled by my training for an
           upcoming Half Ironman. Looking for Summer 2025 internships where I can
