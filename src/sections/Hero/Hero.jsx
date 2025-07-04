@@ -47,13 +47,15 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          A dedicated Computer Science student in Virginia Tech's Honors
-          College, ranking in the top 5% with a 3.97 GPA. I'm passionate about
-          software engineering, app development, and machine learning, with a
-          special interest in fitness technology—fueled by my training for an
-          upcoming Half Ironman. Looking for Summer 2025 internships where I can
-          combine my strong problem solving skills with my drive to learn and
-          create impactful solutions.
+          I'm a Computer Science student in Virginia Tech’s Honors College,
+          ranked in the top 5% of my class with a 3.97 GPA. I have hands-on
+          experience in systems research, software design, and teaching, with a
+          strong focus on building efficient, real-world solutions. My current
+          interests include networked systems, mobility protocols, and machine
+          learning — driven by a deep curiosity and a disciplined work ethic
+          shaped through both academics and endurance training. I’m actively
+          seeking Summer 2025 internships where I can contribute to impactful
+          projects and grow alongside a high-performing team.
         </p>
         <a href={CV} download>
           <button className="hover">CV</button>
